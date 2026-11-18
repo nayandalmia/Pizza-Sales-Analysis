@@ -22,6 +22,11 @@ This project analyzes pizza sales data using MySQL and Power BI to understand sa
 - Total pizzas sold by category
 - Top 5 and Bottom 5 pizzas by quantity sold
 
+## Dashboard Preview
+![Dashboard 1](Screenshot%202026-11-18%20151734.png)
+![Dashboard 2](Screenshot%202026-11-18%20151759.png)
+![Dashboard 3](Screenshot%202026-11-18%20151828.png)
+
 ## Repository Files
 - `pizza_sales.csv` – Sales dataset
 - `pizza_sales_analysis_mysql.sql` – MySQL queries
