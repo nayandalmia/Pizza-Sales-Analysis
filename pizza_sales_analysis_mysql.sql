@@ -1,7 +1,3 @@
--- Pizza Sales Analysis
--- Database: MySQL 8.0+
--- Source: PIZZA SALES SQL QUERIES.docx
--- Table assumed: pizza_sales
 
 -- A. KEY PERFORMANCE INDICATORS (KPIs)
 
